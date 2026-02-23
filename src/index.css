@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@source "../node_modules/@candidhealth/react-vitals/dist";
+@import "@candidhealth/react-vitals/theme.css";
+@import "@candidhealth/react-vitals/base.css";
+
+body {
+  margin: 0;
+  font-family: "Inter", system-ui, -apple-system, sans-serif;
+  color: var(--color-default, #3d3e45);
+  background-color: #fafafa;
+}
