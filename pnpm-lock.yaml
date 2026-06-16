@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@candidhealth/react-vitals':
-        specifier: 1.0.0-alpha.15
-        version: 1.0.0-alpha.15(@fortawesome/fontawesome-svg-core@6.5.2)(@fortawesome/react-fontawesome@3.2.0(@fortawesome/fontawesome-svg-core@6.5.2)(react@18.3.1))(@fortawesome/sharp-solid-svg-icons@6.5.2)(@tanstack/react-query@5.100.9(react@18.3.1))(@tanstack/react-table@8.21.3(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/react-dom@18.3.7(@types/react@18.3.28))(@types/react@18.3.28)(react-dom@18.3.1(react@18.3.1))(react-hook-form@7.75.0(react@18.3.1))(react@18.3.1)(tailwindcss@4.2.0)(zod@3.25.76)
+        specifier: 1.0.0-alpha.16
+        version: 1.0.0-alpha.16(@fortawesome/fontawesome-svg-core@6.5.2)(@fortawesome/react-fontawesome@3.2.0(@fortawesome/fontawesome-svg-core@6.5.2)(react@18.3.1))(@fortawesome/sharp-solid-svg-icons@6.5.2)(@tanstack/react-query@5.100.9(react@18.3.1))(@tanstack/react-table@8.21.3(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/react-dom@18.3.7(@types/react@18.3.28))(@types/react@18.3.28)(react-dom@18.3.1(react@18.3.1))(react-hook-form@7.75.0(react@18.3.1))(react@18.3.1)(tailwindcss@4.2.0)(zod@3.25.76)
       '@fortawesome/fontawesome-svg-core':
         specifier: 6.5.2
         version: 6.5.2
@@ -165,8 +165,8 @@ packages:
     resolution: {integrity: sha512-LwdZHpScM4Qz8Xw2iKSzS+cfglZzJGvofQICy7W7v4caru4EaAmyUuO6BGrbyQ2mYV11W0U8j5mBhd14dd3B0A==}
     engines: {node: '>=6.9.0'}
 
-  '@candidhealth/react-vitals@1.0.0-alpha.15':
-    resolution: {integrity: sha512-hXYNaa9Y8fzpGcb3WPRa1j6FSEdeQFu32F1gn0bYTwaIPyPQ7YCerAWql6OLLJ5jpa3xBnCYrEJp5taNE0XktA==}
+  '@candidhealth/react-vitals@1.0.0-alpha.16':
+    resolution: {integrity: sha512-uVQeLTX9SphcUwythgtLlT9u2Bp1X2yNEkfboyD8Ap+agjBWztnS/78P8DAgV8RTyA5aPS3MRpsJWnxB9s5YPQ==}
     peerDependencies:
       '@fortawesome/fontawesome-svg-core': 7.2.0
       '@fortawesome/react-fontawesome': 3.3.1
@@ -2450,7 +2450,7 @@ snapshots:
       '@babel/helper-string-parser': 7.27.1
       '@babel/helper-validator-identifier': 7.28.5
 
-  '@candidhealth/react-vitals@1.0.0-alpha.15(@fortawesome/fontawesome-svg-core@6.5.2)(@fortawesome/react-fontawesome@3.2.0(@fortawesome/fontawesome-svg-core@6.5.2)(react@18.3.1))(@fortawesome/sharp-solid-svg-icons@6.5.2)(@tanstack/react-query@5.100.9(react@18.3.1))(@tanstack/react-table@8.21.3(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/react-dom@18.3.7(@types/react@18.3.28))(@types/react@18.3.28)(react-dom@18.3.1(react@18.3.1))(react-hook-form@7.75.0(react@18.3.1))(react@18.3.1)(tailwindcss@4.2.0)(zod@3.25.76)':
+  '@candidhealth/react-vitals@1.0.0-alpha.16(@fortawesome/fontawesome-svg-core@6.5.2)(@fortawesome/react-fontawesome@3.2.0(@fortawesome/fontawesome-svg-core@6.5.2)(react@18.3.1))(@fortawesome/sharp-solid-svg-icons@6.5.2)(@tanstack/react-query@5.100.9(react@18.3.1))(@tanstack/react-table@8.21.3(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(@types/react-dom@18.3.7(@types/react@18.3.28))(@types/react@18.3.28)(react-dom@18.3.1(react@18.3.1))(react-hook-form@7.75.0(react@18.3.1))(react@18.3.1)(tailwindcss@4.2.0)(zod@3.25.76)':
     dependencies:
       '@dnd-kit/core': 6.1.0(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@dnd-kit/sortable': 8.0.0(@dnd-kit/core@6.1.0(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1)
