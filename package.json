@@ -9,14 +9,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@candidhealth/react-vitals": "1.0.0-alpha.16",
+    "@candidhealth/react-vitals": "1.0.0-alpha.17",
     "@fortawesome/fontawesome-svg-core": "6.5.2",
     "@fortawesome/react-fontawesome": "^3.2.0",
     "@fortawesome/sharp-solid-svg-icons": "6.5.2",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-hook-form": "^7.0.0",
-    "zod": "3"
+    "zod": "^4.0.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.39.1",
